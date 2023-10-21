@@ -18,15 +18,15 @@ Hobbies and Leisures
 ======
 Along side with academic, I have a lot of sedentary hobbies and focuses.
 
-# Reading
+**Reading**
 
 Feel free to check out my [reading list](https://samliangsk.github.io/readings/)
 
-# not-so-Hi-fi
+**not-so-Hi-fi**
 
 I will probably disclose the setup I have in the future, but currently I am at the entry level and I don't plan to spend more money on this in the near future.
 
-# PC gaming
+**PC gaming**
 
 * Multiplayer: [Tom Clancy's Rainbow Six Siege](https://www.ubisoft.com/en-us/game/rainbow-six/siege), [World of Warships](https://worldofwarships.com), and [Titanfall2](https://www.ea.com/games/titanfall/titanfall-2).
 
