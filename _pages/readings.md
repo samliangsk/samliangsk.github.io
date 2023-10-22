@@ -2,10 +2,8 @@
 layout: archive
 title: "Readings"
 permalink: /readings/
-author_profile: true
+author_profile: false
 ---
-
-{% include base_path %}
 
 Books
 ======
