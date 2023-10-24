@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "WebRTC Collection and Analysis Suite Based on NetUnicorn"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /projects/webrtc-and-netunicorn
+excerpt: 'This project is an continuation of the QoE estimation project'
+date: 2023-07-01
+venue: ''
+paperurl: ''
+citation: ''
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This project is an continuation of the first project
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+* Designed and constructed a state-of-the-art Google Account automated login solution using Python and SeleniumBase to bypass bot detection (in order to auto-join online conferences)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+* Enhanced the WebRTC data collection pipeline into NetUnicorn, an data collection platform built for distributed computing networks, improving customizability, scalability and efficiency
+
+* Optimized deployment by crafting Dockerfile, saving more than 60% of time and effort compared to manual setup, and oversaw headless ARM64 OS Raspberry Pi data collections, accumulating a total of 5G of data from 3 machines simultaneously
