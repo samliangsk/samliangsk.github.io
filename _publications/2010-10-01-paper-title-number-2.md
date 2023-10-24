@@ -4,9 +4,9 @@ collection: publications
 permalink: /projects/webrtc-and-netunicorn
 excerpt: 'This project is an continuation of the QoE estimation project'
 date: 2023-07-01
-venue: ''
-paperurl: ''
-citation: ''
+venue: 
+paperurl: 
+citation: 
 ---
 This project is an continuation of the first project
 

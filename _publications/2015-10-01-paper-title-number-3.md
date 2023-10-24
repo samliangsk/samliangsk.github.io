@@ -4,9 +4,9 @@ collection: publications
 permalink: /projects/QoE-estimation
 excerpt: ''
 date: 2022-06-01
-venue: ''
-paperurl: ''
-citation: ''
+venue: 
+paperurl: 
+citation: 
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
