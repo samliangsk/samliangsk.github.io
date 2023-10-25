@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume Here](http://samliangsk.github.io/files/QishenL_Resume.pdf)
+
 Education
 ======
 * B.S. in Computer Science, University of California - Santa Barbara, 2023
@@ -49,7 +51,7 @@ Skills
 
 Projects
 ======
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

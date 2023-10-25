@@ -2,13 +2,12 @@
 title: "Quality of Experience Estimation for WebRTC based Video Conferencing Applications"
 collection: publications
 permalink: /projects/QoE-estimation
-excerpt: ''
+excerpt: 'This project aims to gain a better knowledge of the VCAs on the packet level.'
 date: 2022-06-01
 venue: 
 paperurl: 
 citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 * Engineered and developed a software based on Python and Selenium, enabling an automated end-to-end process of initiation, participation, presentation, and termination of video conferencing sessions
 

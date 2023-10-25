@@ -2,7 +2,7 @@
 title: "WebRTC Collection and Analysis Suite Based on NetUnicorn"
 collection: publications
 permalink: /projects/webrtc-and-netunicorn
-excerpt: 'This project is an continuation of the QoE estimation project'
+excerpt: 'This project is an continuation of the QoE estimation project. Finding more about Google Login automations'
 date: 2023-07-01
 venue: 
 paperurl: 
