@@ -22,3 +22,25 @@ WebRTC
 *by Philipp Hancke*
 
 An insightful observation and analysis on Google's approach on WebRTC.
+
+Asian American Studies
+======
+
+## Aiiieeeee! An Anthology of Asian-American Writers
+
+*Edited by Frank Chin, Jeffery Paul Chan, Lawson Fusao Inada, and Shawn Wong*
+
+## The Woman Warrior
+
+*by Maxine Hong Kingston*
+
+One of the masterpiece in the subject, a must-read for everyone.
+
+## Cyclopedia Exotica
+
+*by Aminder Dhaliwal*
+
+## One Hundred Demons
+
+*by Lynda Barry*
+
