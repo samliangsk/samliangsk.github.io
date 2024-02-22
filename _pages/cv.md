@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume Here](http://samliangsk.github.io/files/QishenL_Resume.pdf)
+[Download Resume Here](https://samliangsk.github.io/files/QishenL_resume.pdf)
+
 
 Education
 ======
@@ -57,6 +58,7 @@ Projects
 
 Awards
 ======
+* Google IT Support Certificate
 * UCSB College of Engineering High Honors
 * UCSB College of Letters and Science Highest Honors
 * UCSB Asian American Studies Distinction in the Major
