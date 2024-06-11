@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume Here](https://samliangsk.github.io/files/QishenL_resume.pdf)
+[Download Resume Here](https://samliangsk.github.io/files/QishenL_resume_new.pdf)
 
 
 Education
