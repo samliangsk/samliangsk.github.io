@@ -17,11 +17,11 @@ One of the masterpeice in the human history and philosophy while doesn't read li
 
 You might also be interested in Arthur Schopenhauer's essay if you like Nietzsche but more spiritual. 
 
-## Self-Discipline
+## I and the Temple of Earth
 
-*by Steve Pavlina*
+*by Shi Tiesheng (史铁生)*
 
-A great book for habit forming, a easily usable book.
+A book I rely resonates to. A good read if you are feeling down, or when life is throwing too many lemons at you.
 
 WebRTC
 ======
@@ -49,23 +49,6 @@ One of the masterpiece in the subject, a must-read for everyone.
 
 *by David Henry Hwang*
 
-## The Making of Asian America: A History
-
-*by Erica Lee*
-
-## The Lucky Ones: One Family and the Extraordinary Invention of Chinese America
-
-*by Mae Ngai*
-
-## Cyclopedia Exotica
-
-*by Aminder Dhaliwal*
-
 ## No-No Boy
 
 *by John Okada*
-
-## One Hundred Demons
-
-*by Lynda Barry*
-

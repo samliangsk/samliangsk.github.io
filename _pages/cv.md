@@ -14,15 +14,20 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computer Science: Computer Networks, University Southern California, 2025 (expected)
 * B.S. in Computer Science, University of California - Santa Barbara, 2023
 * B.A. in Asian American Studies, University of California - Santa Barbara, 2023
-* M.S. in Computer Science: Computer Networks, University Southern California, 2025 (expected)
 
 Work experience
 ======
+* 2022-current: Researcher
+  * USC Information Sciences Institute
+  * Main focuses: Computer Networking, Testbed, Cybersecurity, dockerization and virtualization
+  * Supervisor: Professor Jelena Mirkovic
+
 * 2021-2023: Researcher
-  * University of California - Santa Barbara
-  * Duties included: data collection, system automation, data collection pipeline construction, system monitor, docker construction
+  * UCSB Systems and Networking Lab
+  * Main focuses: Computer Networking, data collection, system automation, dockerization
   * Supervisor: Professor Arpit Gupta
   
 Skills
@@ -31,8 +36,8 @@ Skills
   * C++
   * C
   * Python
+  * Rust
   * Java
-  * Javascript
 * Computer Networking
   * Software Defined Networking
   * P4 Programming
@@ -40,15 +45,18 @@ Skills
   * WebRTC
   * Network Protocols
 * Systems and Operating Systems
-  * Linux OS Development
+  * RTOS
   * Docker
+  * Kubernetes
   * Security Systems
 * Complexity Theory and Languages
   * Formal Language
   * Automata
-* Web and Security
-  * Selenium
-  * Cybersecurity
+* Databases
+  * NoSQL
+  * Oracle SQL
+  * PostgreSQL
+  * InfluxDB
 
 Projects
 ======
