@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 2022-current: Researcher
+* 2024-current: Researcher
   * USC Information Sciences Institute
   * Main focuses: Computer Networking, Testbed, Cybersecurity, dockerization and virtualization
   * Supervisor: Professor Jelena Mirkovic
