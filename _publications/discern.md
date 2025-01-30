@@ -15,3 +15,4 @@ The NSF project led by Prof. Jelena Mirkovic and Prof. Brian Kocoloski.
 * Co-develop 5 testbed sensors with DISCERN researchers, incorporating InfluxDB and PostgreSQL, monitor testbed operation, providing 2 new facets of metrics to monitor malicious activities, improving system security and reliability by 35%
 * Establish a **knowledge graph** for the SPHERE testbed, enabling threat and structure visualization, boosting research efficiency by 10% and cut data retrieval time by 40%
 * Lower attack surface by more than **15%**, through comprehensive analysis and producing a detailed security report addressing identified vulnerabilities, simulated attacks, and patching suggestions
+* Developed a new security framework based on STPA-Sec and Mission Centric that estimates security postures of cyber systems

@@ -10,6 +10,6 @@ citation:
 ---
 A network metrics analysis project instructed by Prof. John Heidemann
 
-* Design and construct over **20** network scenarios incorporating various router algorithms from various simulators, like **Mininet** and **NS-3**, to assess impact on TCP and UDP loss rates under contemporary high-speed conditions
-* Automate data generation, collection, and analysis processes, incorporating C socket programming with Mininet, **Traffic control** from the Linux Kernel, **tcpdump**, **dpkg**, **pandas**, and **matplotlib**, reducing manual processing time by 40%
-* Conduct comparative analysis from different simulations like Mininet and NS-3
+* Designed and constructed 10000 pipelined network simulations to impact on TCP Reno and BBR loss patterns under Controlled Delay (CoDel) and Fair Queue CoDel (FQ-CoDel) router policies
+* Wrote systems that generated data and used Mininet and NS-3 simulators to send packets over simulated links with Active Queuing Management (AQM) policies to a receiver, and analyze results using scapy, pandas, Matplotlib
+* Learned TCP congestion control algorithms, C socket programming, and NS-3 through independent research
